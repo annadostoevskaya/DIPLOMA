@@ -125,6 +125,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for PowerManagement\Design Rule Check - PowerManagement.html
+DItemRevisionGUID=
+
 [Parameter1]
 Name=NotFitted
 Value=NF
