@@ -130,6 +130,10 @@ DocumentPath=Project Outputs for PowerManagement\Design Rule Check - PowerManage
 DItemRevisionGUID=
 
 [Parameter1]
+Name=VersionRevision
+Value=1.0
+
+[Parameter2]
 Name=NotFitted
 Value=NF
 
